@@ -1,0 +1,16 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>Assets/open.svg</file>
+    <file>Assets/new.svg</file>
+    <file>Assets/save_as.svg</file>
+    <file>Assets/save.svg</file>
+    <file>Assets/battle.svg</file>
+    <file>Assets/close.svg</file>
+    <file>Assets/warrior.png</file>
+    <file>Assets/wizard.png</file>
+    <file>Assets/healer.png</file>
+    <file>Assets/skeleton.png</file>
+    <file>Assets/goblin.png</file>
+    <file>Assets/skull.png</file>
+</qresource>
+</RCC>

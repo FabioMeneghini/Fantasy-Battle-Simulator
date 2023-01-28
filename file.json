@@ -1,0 +1,55 @@
+[
+    [
+        {
+            "level": 4,
+            "max_hp": 350,
+            "name": "character1",
+            "power": 10,
+            "type": "warrior"
+        },
+        {
+            "level": 5,
+            "max_hp": 410,
+            "name": "character2",
+            "power": 12,
+            "type": "healer"
+        },
+        {
+            "armor": 3,
+            "max_hp": 330,
+            "name": "character3",
+            "power": 6,
+            "type": "goblin"
+        },
+        {
+            "level": 5,
+            "max_hp": 390,
+            "name": "character4",
+            "power": 10,
+            "type": "warrior"
+        }
+    ],
+    [
+        {
+            "armor": 4,
+            "max_hp": 180,
+            "name": "character5",
+            "power": 4,
+            "type": "skeleton"
+        },
+        {
+            "armor": 13,
+            "max_hp": 310,
+            "name": "character6",
+            "power": 4,
+            "type": "goblin"
+        },
+        {
+            "level": 5,
+            "max_hp": 290,
+            "name": "character7",
+            "power": 8,
+            "type": "wizard"
+        }
+    ]
+]

@@ -1,7 +1,7 @@
 # Fantasy-Battle-Simulator
 [2023] Project for the course "Object Oriented Programming" at University of Padova.
 
-It's a simple fantasy battle videogame made in C++/Qt.
+A simple fantasy battle videogame made in C++/Qt.
 
 This is a didactic project, it is not intended for production.
 

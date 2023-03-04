@@ -19,6 +19,7 @@ int main(int argc, char* argv[]) {
 
     MainWindow main_window(ally_team, enemy_team);
     main_window.resize(1020, 680);
+    main_window.setMinimumSize(1020, 680);
     main_window.show();
     return app.exec();
 }

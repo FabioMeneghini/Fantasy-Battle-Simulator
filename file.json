@@ -31,24 +31,24 @@
     ],
     [
         {
-            "armor": 4,
+            "armor": 3,
             "max_hp": 180,
             "name": "character5",
-            "power": 4,
+            "power": 2,
             "type": "skeleton"
         },
         {
             "armor": 13,
-            "max_hp": 310,
+            "max_hp": 340,
             "name": "character6",
             "power": 4,
             "type": "goblin"
         },
         {
-            "level": 5,
-            "max_hp": 290,
+            "level": 3,
+            "max_hp": 220,
             "name": "character7",
-            "power": 8,
+            "power": 5,
             "type": "wizard"
         }
     ]

@@ -1,0 +1,36 @@
+Feedback Progetto di Programmazione ad Oggetti
+Studente: Meneghini Fabio
+Valutazione del progetto: lode
+
+Vincoli obbligatori
++ Soddisfatti
+
+
+Orientamento ad oggetti
++ Incapsulamento
++ Modularità (modello logico e la GUI sono separati)
++ Estensibilità ed evolvibilità, polimorfismo
++ Efficienza e robustezza
+
+
+Funzionalità
++ Diverse funzionalità relative al combattimento e alla gestione delle
+  squadre
++ Uso appropriato di strumenti come il visitor
+
+
+GUI
++ Visualizza i diversi tipi di dato in maniera opportuna
++ Usabile e intuitiva
++ Utilizza stili, immagini e diversi elementi grafici
++ Gestisce correttamente il passaggio a diverse schermate
++ Gestisce correttamente il ridimensionamento
+
+
+Relazione
++ Adeguata
+
+
+Suggerimenti non collegati alla valutazione
+Le indicazioni fornite nella precedente consegna sono state correttamente
+seguite e implementate.

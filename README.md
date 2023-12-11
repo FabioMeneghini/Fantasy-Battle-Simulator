@@ -1,5 +1,6 @@
 # Fantasy-Battle-Simulator
 [2023] Project for the course "Object Oriented Programming" at University of Padova.
+This project was evaluated with the highest grade (30/30 cum laude).
 
 A simple fantasy battle videogame made in C++/Qt.
 
